@@ -4,6 +4,7 @@ Jira-to-Notion is a simple tool based on node.js to popualte Notion databases ba
 
 <details open>
     <summary>Table of Contents</summary>
+    
         1. [How it works](#how-it-works)
         2. [Getting Started](#getting-started)
         3. [Dependencies](#dependencies)
