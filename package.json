@@ -1,0 +1,30 @@
+{
+  "name": "jira-to-notion",
+  "version": "1.0.0",
+  "description": "A simple tool to extract Jira information and feed Notion databases",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyBane/Jira-to-Notion.git"
+  },
+  "keywords": [
+    "jira",
+    "notion",
+    "javascript",
+    "node"
+  ],
+  "author": "Anthony Bane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyBane/Jira-to-Notion/issues"
+  },
+  "homepage": "https://github.com/AnthonyBane/Jira-to-Notion#readme",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "dotenv": "^16.3.1",
+    "request": "^2.88.2"
+  }
+}
